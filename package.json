@@ -1,0 +1,24 @@
+{
+  "name": "react-week1",
+  "version": "1.0.0",
+  "description": "Coursera course Front-End Web Dev with React",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2Shar18/react-week1.git"
+  },
+  "author": "2Shar18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2Shar18/react-week1/issues"
+  },
+  "homepage": "https://github.com/2Shar18/react-week1#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
